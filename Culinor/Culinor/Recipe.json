@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "title": "Spaghetti Carbonara",
+        "headline": "Classic Italian Pasta Dish",
+        "description": "A quick and easy pasta dish with eggs, cheese, pancetta, and pepper.",
+        "ingredients": ["spaghetti", "eggs", "Parmesan cheese", "pancetta", "black pepper", "salt"],
+        "imageName": "spaghetti_carbonara"
+    },
+    {
+        "id": "2",
+        "title": "Chicken Tikka Masala",
+        "headline": "Popular Indian Curry",
+        "description": "Tender chicken pieces cooked in a rich, creamy tomato sauce.",
+        "ingredients": ["chicken", "yogurt", "tomato puree", "onions", "garlic", "ginger", "garam masala", "cumin", "coriander", "turmeric", "chili powder"],
+        "imageName": "chicken_tikka_masala"
+    },
+    {
+        "id": "3",
+        "title": "Beef Stroganoff",
+        "headline": "Russian Comfort Food",
+        "description": "A hearty dish with sautéed beef, mushrooms, and a creamy sauce served over noodles.",
+        "ingredients": ["beef", "mushrooms", "onions", "garlic", "sour cream", "beef broth", "butter", "flour", "egg noodles"],
+        "imageName": "beef_stroganoff"
+    },
+    {
+        "id": "4",
+        "title": "Margherita Pizza",
+        "headline": "Classic Italian Pizza",
+        "description": "Simple yet delicious pizza with tomatoes, mozzarella cheese, and fresh basil.",
+        "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "fresh basil", "olive oil", "salt"],
+        "imageName": "margherita_pizza"
+    },
+    {
+        "id": "5",
+        "title": "Caesar Salad",
+        "headline": "Crisp and Refreshing Salad",
+        "description": "A salad of romaine lettuce, croutons, and Parmesan cheese dressed with a tangy Caesar dressing.",
+        "ingredients": ["romaine lettuce", "croutons", "Parmesan cheese", "Caesar dressing"],
+        "imageName": "caesar_salad"
+    },
+    {
+        "id": "6",
+        "title": "Pad Thai",
+        "headline": "Famous Thai Noodle Dish",
+        "description": "Stir-fried rice noodles with shrimp, tofu, peanuts, scrambled eggs, and bean sprouts.",
+        "ingredients": ["rice noodles", "shrimp", "tofu", "eggs", "bean sprouts", "peanuts", "green onions", "garlic", "fish sauce", "tamarind paste", "sugar", "lime"],
+        "imageName": "pad_thai"
+    },
+    {
+        "id": "7",
+        "title": "Chocolate Chip Cookies",
+        "headline": "Classic American Cookies",
+        "description": "Chewy and soft cookies loaded with chocolate chips.",
+        "ingredients": ["flour", "butter", "sugar", "brown sugar", "eggs", "vanilla extract", "baking soda", "salt", "chocolate chips"],
+        "imageName": "chocolate_chip_cookies"
+    },
+    {
+        "id": "8",
+        "title": "Vegetable Stir Fry",
+        "headline": "Quick and Healthy Meal",
+        "description": "Colorful mix of vegetables stir-fried in a savory sauce.",
+        "ingredients": ["broccoli", "bell peppers", "carrots", "snow peas", "garlic", "soy sauce", "ginger", "sesame oil", "cornstarch"],
+        "imageName": "vegetable_stir_fry"
+    },
+    {
+        "id": "9",
+        "title": "Miso Soup",
+        "headline": "Traditional Japanese Soup",
+        "description": "A simple and comforting soup made with dashi broth, miso paste, tofu, and seaweed.",
+        "ingredients": ["dashi broth", "miso paste", "tofu", "wakame seaweed", "green onions"],
+        "imageName": "miso_soup"
+    },
+    {
+        "id": "10",
+        "title": "Guacamole",
+        "headline": "Fresh Mexican Dip",
+        "description": "A creamy and flavorful avocado dip with tomatoes, onions, lime juice, and cilantro.",
+        "ingredients": ["avocados", "tomatoes", "onions", "lime juice", "cilantro", "salt"],
+        "imageName": "guacamole"
+    }
+]
